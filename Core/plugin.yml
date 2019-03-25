@@ -1,0 +1,9 @@
+name: StimmungsCore
+version: 1.0.0
+main: net.zerobuddys.stimmung.Main
+api: ["1.0.8"]
+author: ZeroBuddysYT
+commands:
+  pldev:
+    description: Plugin Developer
+    aliases: /pldev
